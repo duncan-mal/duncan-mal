@@ -1,7 +1,7 @@
 - Hola I’m Duncan🍩
 - I have a certification in Autodesk Inventor
-- I plan on majoring in ⚙mechanical engineering⚙
-- I'm attempting to learn ☕Java solely out of spite of my friends
+- I plan on majoring in mechanical engineering
+- I'm attempting to learn Java solely out of spite of my friends
 
 
 <!---
